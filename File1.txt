@@ -1,5 +1,2 @@
-Hello, My name is Adarsh Kumar Singh
-I am in 22BCD-1 repository
-
-
-
+Hello,my name is Adarsh Kumar Singh
+I am in 22BCD-1 repo.
