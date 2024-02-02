@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-this is in main branch
-=======
+
 writing in the testbranch
->>>>>>> 99334bfa3f241edc500fd17695a2a17946423326
