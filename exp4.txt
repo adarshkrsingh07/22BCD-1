@@ -1,2 +1,1 @@
-this is for experiment 4 writing from the gitbash
-Editing in the file from the github after pushing from local to remote
+this is for exp4 writing from the local repo.
