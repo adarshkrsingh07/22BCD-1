@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    int num1 = 10; 
-    int num2 = 5; 
+    int num1 = 15; 
+    int num2 = 10; 
     int sum;
     sum = num1 + num2;
 
